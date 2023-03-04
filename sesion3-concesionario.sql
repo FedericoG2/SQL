@@ -91,19 +91,14 @@ SELECT * FROM extra;
 
 SELECT * FROM extra_version;
 
--- Ford Mondeo Basic techo solar
+-- Ford Fiesta Basic techo solar
 INSERT INTO extra_version VALUES (1, 1, 3000);
 -- Ford Mondeo Basic climatizador
 INSERT INTO extra_version VALUES (1, 2, 1000);
 -- Ford Mondeo Basic WiFi
 INSERT INTO extra_version VALUES (1, 3, 500);
 
--- Ford Mondeo Advance techo solar
-INSERT INTO extra_version VALUES (3, 1, 3300);
--- Ford Mondeo Advance climatizador
-INSERT INTO extra_version VALUES (3, 2, 1200);
--- Ford Mondeo Advance WiFi
-INSERT INTO extra_version VALUES (3, 3, 500);
+
 
 CREATE TABLE employee(
 	id SERIAL,
