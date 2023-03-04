@@ -93,9 +93,9 @@ SELECT * FROM extra_version;
 
 -- Ford Fiesta Basic techo solar
 INSERT INTO extra_version VALUES (1, 1, 3000);
--- Ford Mondeo Basic climatizador
+-- Ford Fiesta Basic climatizador
 INSERT INTO extra_version VALUES (1, 2, 1000);
--- Ford Mondeo Basic WiFi
+-- Ford Fiesta Basic WiFi
 INSERT INTO extra_version VALUES (1, 3, 500);
 
 
