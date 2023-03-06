@@ -1,5 +1,4 @@
-# SQL
-Curso SQL de Open Bootcamp
+
 INTRODUCCION BASE DE DATOS
 
 En algún momento nuestra aplicación va a necesitar algún tipo de persistencia de datos, es decir que lo datos queden guardados en el disco, y no importa si reinicio el servidor, o modifico mi aplicación u otras cosas que puedan ocurrir. 
